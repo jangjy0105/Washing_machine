@@ -50,7 +50,7 @@
 ---
 
 ## 4. 결과 및 시연 영상
-- [프로젝트 시연 영상 링크](https://www.youtube.com/watch?v=tQvCsBOAzPM)
+- [프로젝트 시연 영상 링크](https://www.youtube.com/watch?v=xOCPP_fHVWs)
 
 ---
 
