@@ -18,8 +18,8 @@
 ---
 
 ## 2. 시스템 구성
----<img width="587" height="317" alt="noname01" src="https://github.com/user-attachments/assets/c6b21c18-59fd-4438-9ed1-f1dcf1955c49" />
-
+<img width="587" height="317" alt="noname01" src="https://github.com/user-attachments/assets/c6b21c18-59fd-4438-9ed1-f1dcf1955c49" />
+---
 ## 3. 개발 및 구현 내용
 
 ### 1) DC 모터 제어
